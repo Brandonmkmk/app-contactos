@@ -23,7 +23,6 @@ export const ListContact = () => {
           <Button variant="primary" onClick={() => deleteContact(contact.id)}>
             Eliminar contacto
           </Button>
-          <Button variant="primary">Editar contacto</Button>
         </div>
       </div>
     </div>
